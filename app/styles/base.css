@@ -890,13 +890,15 @@ html {
 }
 
 .noVNC_logo {
-    color: var(--novnc-yellow);
-    font-family: 'Orbitron', 'OrbitronTTF', sans-serif;
+    color: #7B20E9;
+    /* font-family: 'Orbitron', 'OrbitronTTF', sans-serif; */
     line-height: 0.9;
     text-shadow: 0.1em 0.1em 0 black;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
 }
 .noVNC_logo span{
-    color: var(--novnc-green);
+    color: #ffffff;
 }
 
 #noVNC_bell {
